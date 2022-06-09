@@ -1,0 +1,5 @@
+Colocar que actividades realiza cada integrante del equipo y demostrarlo 
+con los commits, recuerden que deben de realizar el push origin despues 
+de hacet el commit ya que de lo contrario los cambios solo permanecen en 
+el repositorio local y nunca se veran reflejados en el repositorio remoto.
+actualizar
